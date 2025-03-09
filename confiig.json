@@ -1,0 +1,48 @@
+{
+  "name": "Custom Dark Purple Theme",
+  "type": "dark",
+  "colors": {
+    "editor.background": "#462872",
+    "editor.foreground": "#8b8aac",
+    "editorCursor.foreground": "#b08e9e",
+    "editor.lineHighlightBackground": "#77698355",
+    "editor.selectionBackground": "#8b89ae55",
+    "editor.inactiveSelectionBackground": "#8b89ae33",
+    "editorIndentGuide.background": "#776983",
+    "editorIndentGuide.activeBackground": "#b08e9e"
+  },
+  "tokenColors": [
+    {
+      "scope": "comment",
+      "settings": {
+        "foreground": "#776983",
+        "fontStyle": "italic"
+      }
+    },
+    {
+      "scope": "string",
+      "settings": {
+        "foreground": "#b08e9e"
+      }
+    },
+    {
+      "scope": "keyword",
+      "settings": {
+        "foreground": "#8b89ae",
+        "fontStyle": "bold"
+      }
+    },
+    {
+      "scope": "variable.function",
+      "settings": {
+        "foreground": "#8b8aab"
+      }
+    },
+    {
+      "scope": "constant.numeric",
+      "settings": {
+        "foreground": "#8b89ae"
+      }
+    }
+  ]
+}
