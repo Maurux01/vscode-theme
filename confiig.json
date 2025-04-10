@@ -10,7 +10,8 @@
     "editor.inactiveSelectionBackground": "#8b89ae33",
     "editorIndentGuide.background": "#776983",
     "editorIndentGuide.activeBackground": "#b08e9e"
-  },
+  }, 
+  
   "tokenColors": [
     {
       "scope": "comment",
